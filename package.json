@@ -23,6 +23,6 @@
     "fs": "0.0.1-security",
     "inquirer": "^7.0.3",
     "jest": "^24.9.0",
-    "validator": "^12.1.0"
+    "validator": "^13.7.0"
   }
 }
